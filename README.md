@@ -1,5 +1,3 @@
-We provide a stand-alone function to compute Shapley value for a cooperative game in characteristic function form.  Our function relies
-on the R function intToBits which converts an integer vector into a matrix of binary representations, but for our purpose it provides
-an efficient means to compute across game coalitions.  We provide five examples which are hopefully both illustrative and interesting.
+We provide a stand-alone function to compute Shapley value for a cooperative game in characteristic function form.  Our function relies on the R function intToBits which converts an integer vector into a matrix of binary representations, but for our purpose it provides an efficient means to compute across game coalitions.  We provide five examples which are hopefully both illustrative and interesting.  This function was originally coded in APL and appeared as Algorithm 156 in the December 1982 issue of APL Quote Quad (dl.acm.org/doi/pdf/10.1145/586713.586719).
 
 Bob Agnew (raagnew1@gmail.com, www.raagnew.com)  
